@@ -1,8 +1,8 @@
 # ionic-native-sftp-leapfroggr
 cordova plugin for sftp 
 works on both:
-    * IOS,
-    * Android
+* IOS
+* Android
 
 ### Installation
 * `npm install ionic-native-sftp-leapfroggr --save`
@@ -44,3 +44,9 @@ this.sftp_provider.upload({filename, filepath}).then(() => {
         observer.error(error)
       })
 ```
+
+### Future Feature
+* [ ] directory operation
+* [ ] list
+* [ ] delete files
+* [ ] download files
