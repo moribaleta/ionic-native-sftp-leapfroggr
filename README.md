@@ -1,4 +1,4 @@
-# cordova-plugin-sftp-leapfroggr
+# ionic-native-sftp-leapfroggr
 cordova plugin for sftp 
 works on both:
 * IOS,
