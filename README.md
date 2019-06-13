@@ -7,6 +7,9 @@ works on both:
 ### Installation
 * `npm install ionic-native-sftp-leapfroggr --save`
 * `cordova plugin add cordova-plugin-sftp-leapfroggr`
+* required dependencies
+    * https://github.com/kainonly/cordova-support-kotlin
+    * https://github.com/akofman/cordova-plugin-add-swift-support
 
 - #### IOS
     - uses NMSSH library for sftp operations
