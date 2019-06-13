@@ -1,0 +1,23 @@
+{
+  "name": "ionic-native-sftp-leapfroggr",
+  "version": "1.0.0",
+  "description": "ionic native plugin for sftp client upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moribaleta/ionic-native-sftp-leapfroggr.git"
+  },
+  "keywords": [
+    "ionic",
+    "sftp"
+  ],
+  "author": "moribaleta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moribaleta/ionic-native-sftp-leapfroggr/issues"
+  },
+  "homepage": "https://github.com/moribaleta/ionic-native-sftp-leapfroggr#readme"
+}
