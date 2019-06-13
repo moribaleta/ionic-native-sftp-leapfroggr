@@ -5,8 +5,8 @@ works on both:
 * Android
 
 ### Installation
-* `npm install cordova-plugin-sftp-leapfroggr --save`
-* `cordova plugin add cordova-plugin-sftp-leapfroggr/cordova`
+* `npm install ionic-native-sftp-leapfroggr --save`
+* `cordova plugin add cordova-plugin-sftp-leapfroggr`
 
 - #### IOS
 * uses NMSSH library for sftp operations
